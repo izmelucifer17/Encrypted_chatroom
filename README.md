@@ -25,4 +25,4 @@ This is a secure chat application implemented in Python using socket programming
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/secure-chat-application.git
+   git clone https://github.com/izmelucifer17/Encrypted_chatroom.git
